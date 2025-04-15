@@ -1,0 +1,3 @@
+<a href="https://github.com/yourGitHub" className="social-icon">
+  <i className="fab fa-github"></i>
+</a>
